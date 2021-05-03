@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lesieur Théo</h1>
+<h1 align="center">Bienvenue sur le profil de Lesieur Théo</h1>
 <h3 align="center">Un passionné de sciences et découvre l'informatique.</h3>
 
 - 🌱 J'étudie actuellement les mathématiques et la physique. **Et je commence à apprendre à programmer.**
